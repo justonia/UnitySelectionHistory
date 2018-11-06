@@ -4,11 +4,11 @@ Have you ever wished you could go to your previous selection in Unity without ha
 
 Now you can! 
 
-![Menu](images/selection_history_menu.png)
+![Menu](Images/selection_history_menu.png)
 
 In this demo I'm going backwards and forwards in my selection history using the side buttons on my mouse:
 
-![Demo](images/demo.gif)
+![Demo](Images/demo.gif)
 
 ## Features
 
